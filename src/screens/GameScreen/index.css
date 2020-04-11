@@ -1,0 +1,23 @@
+.game-grid th{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    width: 35px;
+}
+.game-grid tr{
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    height: 35px;
+}
+.game-grid table{
+    border-collapse: collapse;
+    padding: 0;
+}
+
+.game-grid th img{
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+}
