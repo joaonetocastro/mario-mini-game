@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mario-mini-game/static/css/main.3d1fc973.chunk.css",
+    "main.js": "/mario-mini-game/static/js/main.e79457e2.chunk.js",
+    "main.js.map": "/mario-mini-game/static/js/main.e79457e2.chunk.js.map",
+    "runtime-main.js": "/mario-mini-game/static/js/runtime-main.37bd3b50.js",
+    "runtime-main.js.map": "/mario-mini-game/static/js/runtime-main.37bd3b50.js.map",
+    "static/js/2.95bf0643.chunk.js": "/mario-mini-game/static/js/2.95bf0643.chunk.js",
+    "static/js/2.95bf0643.chunk.js.map": "/mario-mini-game/static/js/2.95bf0643.chunk.js.map",
+    "index.html": "/mario-mini-game/index.html",
+    "precache-manifest.019b132e02478ccc192026340d474909.js": "/mario-mini-game/precache-manifest.019b132e02478ccc192026340d474909.js",
+    "service-worker.js": "/mario-mini-game/service-worker.js",
+    "static/css/main.3d1fc973.chunk.css.map": "/mario-mini-game/static/css/main.3d1fc973.chunk.css.map",
+    "static/js/2.95bf0643.chunk.js.LICENSE.txt": "/mario-mini-game/static/js/2.95bf0643.chunk.js.LICENSE.txt",
+    "static/media/mario.png": "/mario-mini-game/static/media/mario.11d040ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37bd3b50.js",
+    "static/js/2.95bf0643.chunk.js",
+    "static/css/main.3d1fc973.chunk.css",
+    "static/js/main.e79457e2.chunk.js"
+  ]
+}
